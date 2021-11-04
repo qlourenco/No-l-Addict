@@ -1,0 +1,27 @@
+.banner{
+  background-image: url(https://www.fond-ecran-hd.net/Public/uploads/2019-01-14/1693.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 40rem;
+  margin: 0;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.527);
+}
+
+.container-banner{
+  display: flex;
+  flex-direction: column;
+  padding-left: 10rem;
+  padding-top: 20rem;
+  color: #A60419;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+}
+
+.container-banner h1{
+  font-size: 5em;
+}
+
+.container-banner p{
+  font-size: 2.5em;
+  color: #bd051e;
+}
